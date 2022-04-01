@@ -1,0 +1,12 @@
+*{
+    font-size: inherit;
+    background-color: inherit;
+}
+
+header{
+    background-color: pink;
+}
+
+.upper-header{
+    height: 80vh;
+}
